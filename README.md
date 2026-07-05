@@ -33,7 +33,7 @@ To run this notebook, you will need Python 3.x and the following libraries:
 
 # Contributing
 
-Feel free to fork this project, submit pull requests, or suggest new features (e.g., adding cylindrical/spherical coordinates, or convective boundary conditions). 
+Feel free to fork this project, submit pull requests, or suggest new features (e.g., adding cylindrical/spherical coordinates, convective boundary conditions, or accounting for minute inaccuracies). 
 
 
 ---
